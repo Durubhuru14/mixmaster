@@ -13,7 +13,7 @@ A delightful cocktail discovery app built with React, React Router, and TheCockt
 - 🎨 Modern UI with styled-components
 - 🔍 Search cocktails by name
 - 📜 Detailed cocktail recipes with ingredients
-- ✉️ Newsletter subscription
+- ✉️ Newsletter subscription(Placeholder)
 - ⚡ React Query for data fetching
 - 🚀 Single Page Application (SPA) architecture
 

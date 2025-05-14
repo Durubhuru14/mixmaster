@@ -4,10 +4,6 @@
 
 A delightful cocktail discovery app built with React, React Router, and TheCocktailDB API. Find your perfect drink recipe and shake up your next party!
 
-## 🎨 Figma File
-
-[MixMaster Design](https://www.figma.com/community/file/1255860657910062828)
-
 ## 🌟 Features
 
 - 🎨 Modern UI with styled-components
